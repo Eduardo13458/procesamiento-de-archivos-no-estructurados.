@@ -1,0 +1,53 @@
+1
+00:00:01,000 --> 00:00:04,500
+Bienvenidos al curso de procesamiento
+de archivos no estructurados
+
+2
+00:00:05,000 --> 00:00:08,200
+En esta lección aprenderemos a trabajar
+con diferentes tipos de datos
+
+3
+00:00:09,000 --> 00:00:12,800
+Los archivos LOG contienen información
+sobre eventos del sistema
+
+4
+00:00:13,500 --> 00:00:17,300
+Mientras que los archivos SRT
+son utilizados para subtítulos
+
+5
+00:00:18,000 --> 00:00:21,500
+Ambos son ejemplos perfectos
+de datos no estructurados
+
+6
+00:00:22,000 --> 00:00:25,800
+No tienen un esquema fijo o predefinido
+como bases de datos relacionales
+
+7
+00:00:26,500 --> 00:00:30,000
+Procesarlos requiere técnicas especiales
+de análisis de texto
+
+8
+00:00:31,000 --> 00:00:34,200
+Podemos buscar palabras clave,
+extraer información relevante
+
+9
+00:00:35,000 --> 00:00:38,500
+Y generar estadísticas útiles
+sobre el contenido
+
+10
+00:00:39,000 --> 00:00:42,800
+Esta aplicación demuestra
+las funciones básicas de procesamiento
+
+11
+00:00:43,500 --> 00:00:46,500
+¡Gracias por su atención!
